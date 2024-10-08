@@ -1,4 +1,4 @@
-![Project Logo](safer.fun_header.png)
+![Project Logo](./imgs/safer.fun_header.png)
 
 
 *Safer.fun is a platform-agnostic protocol enhancing fairness in the memecoin market by introducing unique way of randomness and auctions. It combats malicious actors like snipers and unethical developers, preventing systematic, risk-free wins. It ensures equitable token launches and fair allocation for buyers, improving user experience across any platform or DEX.*
@@ -14,7 +14,12 @@
 
 **[Simulations](simulations/) :** A monte carlo simulation of types of rugpulls in a classical pump.fun like_pool as well as a one for a mock safer.fun. 
 
-**[Solana Program](solana-program/) :** We use [clockwork](https://docs.clockwork.xyz/) to handle worker-like functionalty on distribution phase. We use VRF to introduce randomness on clockwork calls 
+**[Solana Program](solana-program/) :** We use [clockwork](https://docs.clockwork.xyz/) to handle worker-like time based functionality on distribution phase. We use VRF to introduce randomness on clockwork calls
+
+
+Each part of app has their own Readme file you can check them by browsing in folders for additional information
+
+
 
 
 # How To Calculate Auction Score
