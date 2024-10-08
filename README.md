@@ -4,6 +4,8 @@
 *Safer.fun is a platform-agnostic protocol enhancing fairness in the memecoin market by introducing unique way of randomness and auctions. It combats malicious actors like snipers and unethical developers, preventing systematic, risk-free wins. It ensures equitable token launches and fair allocation for buyers, improving user experience across any platform or DEX.*
 
 
+**[Live Demo Website](https://https://saferfun.vercel.app/)**
+
 
 # App Structure
 
