@@ -10,7 +10,7 @@
 
 **[Backend](backend/) :** We use Nest.js in order to handle non-important functionalty eg. posting comments. This is not an obligation for solana program of Safer.fun
 
-
+**[Frontend](frontend/) :** We used Next.js and web-3 libraries to create current frontend in order to provide best UI and UX
 
 **[Simulations](simulations/) :** A monte carlo simulation of types of rugpulls in a classical pump.fun like_pool as well as a one for a mock safer.fun. 
 
@@ -20,6 +20,10 @@
 Each part of app has their own Readme file you can check them by browsing in folders for additional information
 
 
+
+# Team
+
+![1728427044520.png](./imgs/1728427044520.png)
 
 
 # How To Calculate Auction Score
