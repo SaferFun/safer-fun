@@ -1,7 +1,7 @@
 ![Project Logo](./imgs/safer.fun_header.png)
 
 
-*Safer.fun is a platform-agnostic protocol enhancing fairness in the memecoin market by introducing unique way of randomness and auctions. It combats malicious actors like snipers and unethical developers, preventing systematic, risk-free wins. It ensures equitable token launches and fair allocation for buyers, improving user experience across any platform or DEX.*
+*Safer.fun is a platform-agnostic protocol enhancing fairness in the memecoin market by introducing unique ways of randomness and auctions. It combats malicious actors like snipers and unethical developers, preventing systematic, risk-free wins. It ensures equitable token launches and fair allocation for buyers, improving user experience across any platform or DEX.*
 
 
 **[Live Demo Website](https://https://saferfun.vercel.app/)**
@@ -27,7 +27,7 @@ Each part of app has their own Readme file you can check them by browsing in fol
 
 # Team
 
-![1728427044520.png](./imgs/1728427044520.png)
+![1728430376662.png](./imgs/1728430376662.png)
 
 
 # How To Calculate Auction Score
