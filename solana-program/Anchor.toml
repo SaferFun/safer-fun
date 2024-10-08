@@ -1,0 +1,21 @@
+[toolchain]
+
+[features]
+resolution = true
+skip-lint = false
+
+[programs.localnet]
+saferfun_program = "9BynGY4JA6k8wJaPjg7JH6YQ4aEHbWqvx62zZT3x6ugc"
+
+[programs.devnet]
+saferfun_program = "9BynGY4JA6k8wJaPjg7JH6YQ4aEHbWqvx62zZT3x6ugc"
+
+[registry]
+url = "https://api.apr.dev"
+
+[provider]
+cluster = "Devnet"
+wallet = "~/.config/solana/id.json"
+
+[scripts]
+test = "yarn run ts-mocha -p ./tsconfig.json -t 1000000 tests/**/*.ts"
