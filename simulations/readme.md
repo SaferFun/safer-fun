@@ -1,26 +1,26 @@
-# Simulation Results
+![image](https://github.com/user-attachments/assets/67940efd-0b30-438a-b84d-1d2babc2fab2)# Simulation Results
 
 Distribution of bad dev profit in a pump.fun-like pool
 
-![](https://cdn.discordapp.com/attachments/1284871708548792353/1293338462115860572/Pumpfun_pool_dev_profits.png?ex=670702ce&is=6705b14e&hm=7f7ff8e4821ac9059a7f577d6977f55bb9df16a70dc8df1b5198e4c490a7cb53&=)
+![](https://media.discordapp.net/attachments/1284871708548792353/1294010688544440410/Pumpfun_pool_dev_profits.png?ex=670974dd&is=6708235d&hm=095a3547ef093506af6fff5b456b3eebdbc9a0ef4e837e9db8d99e0d4db77d24&=&format=webp&quality=lossless&width=1700&height=1090)
 
 Token price trajectory of a case with a bad dev that dumps after 60 secs
 
-![](https://cdn.discordapp.com/attachments/1284871708548792353/1293338462354669648/rugpull_Montecarlo.png?ex=670702ce&is=6705b14e&hm=aa00c3e57815395dc43028cc29fd3c3b5ac594ad296fe9d3e543c64d93c6ffbc&=)
+![](https://media.discordapp.net/attachments/1284871708548792353/1294010494578856117/rugpull_Montecarlo.png?ex=670974af&is=6708232f&hm=8e448dfef01f565b39ad326ad5cebdb6482491b34de7c9784452edf440127b2e&=&format=webp&quality=lossless&width=1696&height=1090)
 
 
 Sniper dumps after 10 secs
 
-![](https://cdn.discordapp.com/attachments/1284871708548792353/1293338462581166193/snipingproj.png?ex=670702ce&is=6705b14e&hm=4f96dbc2b9668988ed75c025bcc9ea8666c1a3074542d642b41867829e95c3b8&=)
+![](https://media.discordapp.net/attachments/1284871708548792353/1294010828345049098/snipingproj.png?ex=670974ff&is=6708237f&hm=83fac29f4c699cadb15f0e07f73584be55d114df06d940c47c5711500245635e&=&format=webp&quality=lossless&width=1658&height=1078)
 
 Simulation of price movement of the tokens in safer.fun with **good** dev
 
-![](https://cdn.discordapp.com/attachments/1284871708548792353/1293338462820503602/token_legitdev1.png?ex=670702ce&is=6705b14e&hm=549d08188efc9da89e1ae181c950574c5eb870b3292f3f86aada69362255800e&=)
+![](https://media.discordapp.net/attachments/1284871708548792353/1294010916936880199/token_legitdev1.png?ex=67097514&is=67082394&hm=53e88075e0123da28787e2f05ffea2ec312f944eeaf26baf08054ae173d4e44c&=&format=webp&quality=lossless&width=1096&height=700)
 
 Simulation of price movement of the tokens in safer.fun with **bad** dev
 
-![](https://cdn.discordapp.com/attachments/1284871708548792353/1293338463281610793/token_price_safer.fun1.png?ex=670702ce&is=6705b14e&hm=d3545d04e02622baed2ed218f96efb2eac5d42a4e1533d74bb9b77d77d69bda9&=)
+![](https://media.discordapp.net/attachments/1284871708548792353/1294011020871733340/token_price_safer.png?ex=6709752c&is=670823ac&hm=680a7546b521b9b3695ca954321dfeab01e6c31284f9f5486a60dde80cd2e52c&=&format=webp&quality=lossless&width=1088&height=700)
 
 Distribution of sniper profits in pump.fun-like pool
 
-![](https://cdn.discordapp.com/attachments/1284871708548792353/1293338463566827632/dist_of_profits.png?ex=670702ce&is=6705b14e&hm=b4483cf52bc1c659c10be11881345aad33a5d334359069f4f0b7d31cfad5d5a7&=)
+![](https://media.discordapp.net/attachments/1284871708548792353/1294011127440740382/dist_of_profits.png?ex=67097546&is=670823c6&hm=8427cb8fa4dddc3b3bf1a50b69c2312f755c3a4d24b452f174a65fd4ec0ee53e&=&format=webp&quality=lossless&width=1718&height=1090)
