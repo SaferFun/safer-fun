@@ -1,4 +1,3 @@
-![Project Logo]()
 
 ![Project Logo](./imgs/safer.fun_header.png)
 
@@ -36,10 +35,10 @@ Each part of app has their own Readme file you can check them by browsing in fol
 
 # Exploit Examples
 
-![](https://cdn.discordapp.com/attachments/1284871708548792353/1292769967015727104/image.png?ex=6706eb9a&is=67059a1a&hm=63c0d08ee93daaad75eb1920103c74d38bdbd0705b6589123076344ef086b39b&=)
+![](./imgs/rug1.png)
 
-![](https://cdn.discordapp.com/attachments/1284871708548792353/1292774976973176885/image.png?ex=6706f045&is=67059ec5&hm=ee6acb37d9707a854b9584fe9746ca83d5c650b48a65cf4b2307eb72a682669d&=)
+![](./imgs/rug2.png)
 
-![](https://cdn.discordapp.com/attachments/1284871708548792353/1292787000700571670/image.png?ex=6706fb77&is=6705a9f7&hm=bd28546f43af10158ff78519c4c4172bd20c6851b75851f8930d8a0c71b07c7e&=)
+![](./imgs/rug3.png)
 
-![](https://cdn.discordapp.com/attachments/1284871708548792353/1292787169341083679/image.png?ex=6706fb9f&is=6705aa1f&hm=58c97fb740aa8a98f4deb4b7e7b3a88b90fc21ddbf8795c83d7d42d53b6396ed&=)
+![](./imgs/rug4.png)
